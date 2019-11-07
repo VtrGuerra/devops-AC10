@@ -1,2 +1,5 @@
-# devops-AC10
-AC10
+﻿Lucas Macedo
+Luan Felix
+Gustavo Cipriano
+Wesley Nascimento 
+Sabrina Silva
