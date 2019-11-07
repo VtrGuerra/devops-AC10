@@ -1,5 +1,5 @@
-﻿Lucas Macedo
+﻿Vitor Hugo Guerra
 Luan Felix
-Gustavo Cipriano
-Wesley Nascimento 
-Sabrina Silva
+Vinicius Pereira
+Francisco Walas
+João Victor Matos
